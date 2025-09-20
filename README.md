@@ -1,6 +1,6 @@
 # Git Final Exam
-Họ tên: Nguyễn Văn A  
-MSSV: 12345678  
+Họ tên: Nghị Phúc khang  
+MSSV: 225130  
 Ngày làm bài: 20/09/2025  
 
 ## Mục tiêu
