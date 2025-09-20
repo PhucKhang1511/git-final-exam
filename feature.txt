@@ -1,0 +1,7 @@
+Tính năng mới: Quản lý đơn hàng
+- Người dùng có thể thêm sản phẩm vào giỏ hàng.
+- Hệ thống cho phép cập nhật số lượng sản phẩm.
+- Người dùng có thể xem chi tiết đơn hàng trước khi thanh toán.
+- Admin có thể theo dõi và xử lý đơn hàng.
+
+
