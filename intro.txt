@@ -1,0 +1,15 @@
+Xin chào, tôi là Nghị Phúc Khang.
+Tôi hiện đang là sinh viên ngành Công nghệ thông tin
+Tôi yêu thích việc học hỏi công nghệ mới.
+Tôi mong muốn trở thành một lập trình viên giỏi trong tương lai.
+Tôi luôn cố gắng hoàn thiện bản thân mỗi ngày.
+
+Sở thích:
+1. Chơi game
+2. Nghe nhạc
+3. Chơi thể thao
+
+Kỹ năng:
+1. Lập trình C#
+2. Làm việc nhóm
+3. Quản lý thời gian
